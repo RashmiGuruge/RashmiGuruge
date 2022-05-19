@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rashmi Guruge</h1>
 
-<p align="left">
-</p>
+
 
 ## Languages and Tools:
 
